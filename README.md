@@ -51,3 +51,21 @@ pip install calmap
 ```
 ## JDK 설치
 ### JDK : https://github.com/ojdkbuild/ojdkbuild
+---
+# 활용 | 다양한 API 활용 | P.154 ~ P.204
+## 설치 라이브러리
+### Pytrends : https://pypi.org/project/pytrends/
+```python
+pip install pytrends
+```
+### Googlemaps : https://pypi.org/project/googlemaps/
+```python
+pip install googlemaps
+```
+### Folium : https://python-visualization.github.io/folium/
+```python
+pip install folium
+```
+## API Site
+### 전자 공시 시스템 : https://opendart.fss.or.kr/
+### 구글 지도 플랫폼 : https://cloud.google.com/maps-plaform
