@@ -84,3 +84,10 @@ pip install PyPDF2
 ```python
 pip install pdfminer.six
 ```
+---
+# 개발 | 애플리케이션 활용 및 개발 | P.294 ~ P.354
+## 설치 라이브러리
+### Flask : https://flask.palletsprojects.com/en/1.1.x/
+```python
+pip install flask
+```
