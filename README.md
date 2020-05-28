@@ -69,3 +69,18 @@ pip install folium
 ## API Site
 ### 전자 공시 시스템 : https://opendart.fss.or.kr/
 ### 구글 지도 플랫폼 : https://cloud.google.com/maps-plaform
+---
+# 실무 | 오피스 업무 자동화 | P.208 ~ P.291
+## 설치 라이브러리
+### Docx-mailmerge : https://github.com/Bouke/docx-mailmerge
+```python
+pip install docx-mailmerge
+```
+### PyPDF2 : https://pythonhosted.org/PyPDF2/
+```python
+pip install PyPDF2
+```
+### Pdfminer : https://github.com/pdfminer/pdfminer.six
+```python
+pip install pdfminer.six
+```
